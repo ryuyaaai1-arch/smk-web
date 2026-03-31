@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SMK Web
 
 Website profil sekolah berbasis Next.js App Router + Sanity CMS.
@@ -259,3 +260,6 @@ _type in [
 - Pastikan `NEXT_PUBLIC_SITE_URL` selalu sesuai domain production.
 - Setiap ubah env di hosting, lakukan redeploy.
 - Jangan commit file `.env.local` ke repository.
+=======
+# smk-web
+>>>>>>> be80a2b11c915bb1bd8e9056a4caa54912d06bab
